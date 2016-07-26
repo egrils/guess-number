@@ -1,0 +1,7 @@
+{
+  "name": "guess-number",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jasmine"
+  }
+}
